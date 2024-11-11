@@ -37,8 +37,8 @@ Extract Title and Price:
 Use book.h3.a["title"] to get the title (found within an <h3> tag).
 Use book.find("p", class_="price_color").text.strip() to get the price.
 We store each book’s title and price in a dictionary and add it to our book_data list.
-Display the Data:
 
+Display the Data:
 7)Finally, we print the title and price of each book in our book_data list. This gives us a clean output of all books on the page.
 
 
