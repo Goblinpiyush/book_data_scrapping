@@ -34,6 +34,7 @@ Locate the Book Containers:
 Extract Title and Price:
 
 6)We loop through each book and:
+
 Use book.h3.a["title"] to get the title (found within an <h3> tag).
 Use book.find("p", class_="price_color").text.strip() to get the price.
 We store each book’s title and price in a dictionary and add it to our book_data list.
