@@ -1,5 +1,5 @@
 Project Title:
-Web Scraping : How to Scrape Book Data from a Website using Python
+# How to Scrape Book Data from a Website using Python
 
 Post Content:
 
